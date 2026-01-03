@@ -103,9 +103,13 @@ I enjoy optimizing code until it’s clean, efficient, and logically airtight.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Varun2045&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Varun2045&theme=dark&hide_border=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Varun2045&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2045&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2045&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
@@ -114,24 +118,58 @@ I enjoy optimizing code until it’s clean, efficient, and logically airtight.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Varun2045&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Varun2045&theme=radical&margin-w=4)
 
 </div>
 
 
+
 <div align="center">
 
-### ✍️ Random Dev Quote
+## ⭐ Top Repositories
+
+</div>
+
+<div align="center">
+
+### 🚀 Mini-Path-Visualizer  
+🔗 Live Demo: https://mini-path-visualizer.vercel.app/
+
+<br/>
+
+### 🤖 Tiny-Robot-Job-Scheduler  
+🔗 Live Demo: https://tinyrobotjobscheduler.vercel.app/
+
+<br/>
+
+### 📦 WMS-LITE  
+🔗 Live Demo: https://wms-lite.vercel.app/
+
+<br/>
+
+### 🧾 System-Log-Validator  
+🔗 Live Demo: https://system-log-validator.vercel.app/
+
+</div>
+
+<br><br>
+
+
+<div align="center">
+
+## ✍️ Random Dev Quote
+
+</div>
+
+<br>
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
-
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=Varun2045&icon=0&color=0)
-
-</div>
-
-
+<br><br>
