@@ -113,21 +113,6 @@ I enjoy optimizing code until it’s clean, efficient, and logically airtight.
 
 </div>
 
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Varun2045&theme=radical&margin-w=4)
-
-</div>
-
-
-
 <div align="center">
 
 ## ⭐ Top Repositories
