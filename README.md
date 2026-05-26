@@ -25,7 +25,7 @@ Java, Python, Data Structures & Algorithms, backend development, Linux, and debu
 I enjoy optimizing code until it’s clean, efficient, and logically airtight.
 
 🔗 GitHub: https://github.com/Varun2045
-
+🔗 Email: varun.damani.12@gmail.com
 
 <div align="center">
 
