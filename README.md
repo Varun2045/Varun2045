@@ -116,28 +116,29 @@ I enjoy optimizing code until it’s clean, efficient, and logically airtight.
 <div align="center">
 
 ## ⭐ Top Repositories
-
 </div>
-
 <div align="center">
 
-### 🚀 Mini-Path-Visualizer  
-🔗 Live Demo: https://mini-path-visualizer.vercel.app/
-
+### 📊 ChartMind-OfflineBI  
+🔗 GitHub: https://github.com/Varun2045/ChartMind-OfflineBI
 <br/>
 
-### 🤖 Tiny-Robot-Job-Scheduler  
-🔗 Live Demo: https://tinyrobotjobscheduler.vercel.app/
-
+### 🔌 GitHub Analyzer MCP  
+🔗 GitHub: https://github.com/Varun2045/github-analyzer-mcp
 <br/>
 
-### 📦 WMS-LITE  
-🔗 Live Demo: https://wms-lite.vercel.app/
-
+### 💰 Finance Tracker AI  
+🔗 GitHub: https://github.com/Varun2045/FinanceTrackerAI  
+🌐 Live Demo: https://fj-be-r2-varun-damani-vit-vellore-1.onrender.com/
 <br/>
 
-### 🧾 System-Log-Validator  
-🔗 Live Demo: https://system-log-validator.vercel.app/
+### 🤖 AI Assistant Eval  
+🔗 GitHub: https://github.com/Varun2045/ai-assistant-eval
+<br/>
+
+### 📈 SAP-O2C-Graph  
+🔗 GitHub: https://github.com/Varun2045/sap-o2c-graph
+<br/>
 
 </div>
 
