@@ -98,21 +98,6 @@ I enjoy optimizing code until it’s clean, efficient, and logically airtight.
 ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-
-<div align="center">
-
-# 📊 GitHub Stats
-
-</div>
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Varun2045&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Varun2045&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2045&theme=dark&hide_border=true&layout=compact)
-
-</div>
-
 <div align="center">
 
 ## ⭐ Top Repositories
