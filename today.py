@@ -617,18 +617,25 @@ def force_close_file(data, cache_comment):
         'has had the partial data saved and closed.'
     )
 
-
 def stars_counter(data):
     """
-    Counts total stars received by repositories owned by the user.
+    Count total stars in repositories owned by me.
+    Safely skips repository nodes that GitHub returns as null.
     """
-
     total_stars = 0
 
     for node in data:
-        total_stars += (
-            node['node']['stargazers']['totalCount']
-        )
+        repository = node.get('node') if node else None
+
+        if repository is None:
+            continue
+
+        stargazers = repository.get('stargazers')
+
+        if stargazers is None:
+            continue
+
+        total_stars += stargazers.get('totalCount', 0) or 0
 
     return total_stars
 
