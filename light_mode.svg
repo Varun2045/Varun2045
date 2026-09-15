@@ -19,7 +19,7 @@ text, tspan {white-space: pre;}
 <text x="15" y="30" fill="#24292f" class="ascii">
 <tspan x="15" y="30">                                    </tspan>
 <tspan x="15" y="50">                    .;              </tspan>
-<tspan x="15" y="70">          &#39;. &#39;!~     L|             </tspan>
+<tspan x="15" y="70">          '. '!~     L|             </tspan>
 <tspan x="15" y="90">         !#######;    MC            </tspan>
 <tspan x="15" y="110">         #########L    8            </tspan>
 <tspan x="15" y="130">        ~##########i   G            </tspan>
@@ -27,7 +27,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="170">         ############   |#%         </tspan>
 <tspan x="15" y="190">         ############`   f#         </tspan>
 <tspan x="15" y="210">      ;~1%####``&amp;####` :C#          </tspan>
-<tspan x="15" y="230">     !#######&#x27;~###t#G;###L          </tspan>
+<tspan x="15" y="230">     !#######'~###t#G;###L          </tspan>
 <tspan x="15" y="250">      ~C`..##@C###%# MW##1          </tspan>
 <tspan x="15" y="270">          ~#########C#W##:          </tspan>
 <tspan x="15" y="290">          #############; i#t        </tspan>
@@ -35,10 +35,10 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="330">        &amp;##########;Ct#.  `fW       </tspan>
 <tspan x="15" y="350">       @##########M `#8   ~#t       </tspan>
 <tspan x="15" y="370">       ~ i#####0#@ :.  . #WW        </tspan>
-<tspan x="15" y="390">     &#x27;!|fC######G  C%  ||M##0       </tspan>
+<tspan x="15" y="390">     '!|fC######G  C%  ||M##0       </tspan>
 <tspan x="15" y="410">        ;CC%###|   ##     G##       </tspan>
 <tspan x="15" y="430">           G#8   :###.     M~       </tspan>
-<tspan x="15" y="450">         !#%Ci;0L#####.&#x27;   tt1:     </tspan>
+<tspan x="15" y="450">         !#%Ci;0L#####.'   tt1:     </tspan>
 <tspan x="15" y="470">       `tC~%##########.###; !G#;    </tspan>
 <tspan x="15" y="490">           |f1!~t!i1f. ~tG!   ~.    </tspan>
 <tspan x="15" y="510">                                    </tspan>
