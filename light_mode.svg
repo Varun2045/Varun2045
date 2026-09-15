@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="990px" height="530px" font-size="16px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<rect width="990px" height="530px" fill="#f6f8fa" rx="15"/>
 <text x="15" y="30" fill="#24292f" class="ascii">
 <tspan x="15" y="30">                      `             </tspan>
 <tspan x="15" y="50">                      ,-            </tspan>
@@ -43,31 +43,31 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="490">        ;~-   .-`f#@@fw       :'`   </tspan>
 <tspan x="15" y="510">      ';' :M%%@@f#@#@#% ;j~   '`/M  </tspan>
 </text>
-<text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">varun@github</tspan> --------------------------------------------------
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 11, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">VIT, Vellore</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">CSE Student / Software Developer</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, IntelliJ IDEA</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Java, Python, JS, TS, SQL</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">React, Next.js, FastAPI, Flutter</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Tools &amp; DB</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Postgres, Docker, LangChain, Git</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">AI/ML, Full Stack, Data Analyst</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Sports</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Cricket, Swimming</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Leisure</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Watching Anime</tspan>
-<tspan x="390" y="310" class="cc">. </tspan>
-<tspan x="390" y="330"> - Contact</tspan> ----------------------------------------------------
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Varun.damani.12@gmail.com</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">varun-damani-portfolio.carrd.co</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">damanivarun</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">varun_damani</tspan>
-<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Varun2045</tspan>
-<tspan x="390" y="450"> - GitHub Stats</tspan> -----------------------------------------------
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">45</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">45</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">0</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">1,454</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">0</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"></tspan><tspan class="value" id="loc_data">11,602,139</tspan> ( <tspan class="addColor" id="loc_add">12,526,097</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"></tspan><tspan class="delColor" id="loc_del">923,958</tspan><tspan class="delColor">--</tspan> )
+<text x="368" y="30" fill="#24292f">
+<tspan x="368" y="30">varun@github</tspan> ---------------------------------------------------
+<tspan x="368" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">Windows 11, Linux</tspan>
+<tspan x="368" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .......................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
+<tspan x="368" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">VIT, Vellore</tspan>
+<tspan x="368" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">CSE Student / Software Developer</tspan>
+<tspan x="368" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">VS Code, IntelliJ IDEA</tspan>
+<tspan x="368" y="150" class="cc">. </tspan>
+<tspan x="368" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Java, Python, JS, TS, SQL</tspan>
+<tspan x="368" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">React, Next.js, FastAPI, Flutter</tspan>
+<tspan x="368" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Tools &amp; DB</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Postgres, Docker, LangChain, Git</tspan>
+<tspan x="368" y="230" class="cc">. </tspan>
+<tspan x="368" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">AI/ML, Full Stack, Data Analyst</tspan>
+<tspan x="368" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Sports</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Cricket, Swimming</tspan>
+<tspan x="368" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Leisure</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Watching Anime</tspan>
+<tspan x="368" y="310" class="cc">. </tspan>
+<tspan x="368" y="330"> - Contact</tspan> -----------------------------------------------------
+<tspan x="368" y="350" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Varun.damani.12@gmail.com</tspan>
+<tspan x="368" y="370" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">varun-damani-portfolio.carrd.co</tspan>
+<tspan x="368" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">damanivarun</tspan>
+<tspan x="368" y="410" class="cc">. </tspan><tspan class="key">Instagram</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">varun_damani</tspan>
+<tspan x="368" y="430" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Varun2045</tspan>
+<tspan x="368" y="450"> - GitHub Stats</tspan> ------------------------------------------------
+<tspan x="368" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">45</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">45</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> .................. </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="368" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ...................... </tspan><tspan class="value" id="commit_data">1,454</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="368" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"></tspan><tspan class="value" id="loc_data">11,602,139</tspan> ( <tspan class="addColor" id="loc_add">12,526,097</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"></tspan><tspan class="delColor" id="loc_del">923,958</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
